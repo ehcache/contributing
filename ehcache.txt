@@ -1,10 +1,10 @@
 This file contains a list of persons who are "Publishers" for the 
-Terracotta-OSS (https://github.com/terracotta-oss/) open source projects.
+Ehache (https://github.com/ehcache/) open source projects.
 
 Having been invited to become a "Publisher" a person creates a Pull Request
 on this file that adds their name and contact information to the list below,
 and in so doing agrees to follow all of the guidelines and policies documented
-at: https://github.com/terracotta-oss/contributing/blob/main/CONTRIBUTING.md
+at: https://github.com/ehcache/contributing/blob/main/CONTRIBUTING.md
 
 
 Active Publishers:

@@ -1,13 +1,13 @@
 
-# Contributing to the Terracotta Project
+# Contributing to the Ehcache Project
 
 _We're happy to have you participate in our community with your contributions!_
 
 ## Legal
 
-All original contributions to the Terracotta-OSS project ("Terracotta") are licensed under the Apache License, version 2.0 or later.
+All original contributions to the Ehcache project are licensed under the Apache License, version 2.0 or later.
 
-The Apache License 2.0 text is included verbatim in the [LICENSE.txt](https://github.com/terracotta-oss/contributing/blob/main/LICENSE.txt) file in the root directory of the 'contributing' repository.
+The Apache License 2.0 text is included verbatim in the [LICENSE.txt](https://github.com/ehcache/contributing/blob/main/LICENSE.txt) file in the root directory of the 'contributing' repository.
 
 All contributions are subject to the Developer Certificate of Origin (DCO).
 
@@ -15,7 +15,7 @@ The DCO text is available verbatim in the [dco.txt](dco.txt) file in the root di
 
 ## Process
 
-The Terracotta project is owned by IBM.  Please follow the simple contribution process documented here.
+The Ehcache project is owned by IBM.  Please follow the simple contribution process documented here.
 
 In brief, the process is as simple as:
 
